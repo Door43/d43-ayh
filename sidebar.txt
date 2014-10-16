@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayh:home|Door43 (ayh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayh|d43-ayh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayh/archive/master.zip|d43-ayh.zip]]
+
+**Recent Changes**
+{{changes>ns = ayh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayh|Ethnologue data]]
+
